@@ -1,3 +1,1 @@
 # Fraud-Detection
-
-Using SQL
